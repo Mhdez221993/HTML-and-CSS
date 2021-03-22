@@ -1,18 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Day 1: HTML5 and Box model
 
 > Set up a GitHub repository with correct tools
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+In this exercise, you will set up a "Hello world" repository.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
